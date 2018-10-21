@@ -1,2 +1,3 @@
-# FirstGame
-打飞机小游戏
+# FirstDemo
+模拟太阳系
+
